@@ -29,7 +29,7 @@ namespace Cwiczenia1
 
             string str = "ss";
             //NazwaMetody
-            Console.WriteLine("Koniec!");
+            Console.WriteLine("Koniec!!");
         }
     }
 }
